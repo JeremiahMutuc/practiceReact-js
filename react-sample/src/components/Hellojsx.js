@@ -11,7 +11,7 @@ import React from 'react'
  return React.createElement(
      'div', 
      {id : 'hello', className : 'helloClass'}, 
-     React.createElement('h1', null, 'Hello jeje'));
+     React.createElement('h1', null, 'Hello jeje this is used by JSX'));
  } 
 
 

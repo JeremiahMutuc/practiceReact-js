@@ -10,6 +10,8 @@ function App(){
            <Greet/>
            <Greet2/>
            <Hello/>
+           <Greet alias="Jairah alias"/> 
+          
       </div>
     );
 
